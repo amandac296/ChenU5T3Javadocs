@@ -1,12 +1,10 @@
+import java.util.Scanner;
 /**
  * This class is used to create a hangman class for a user to play
  *
  * @author Amanda C., Tony C., Raisa S.
  *
  */
-
-
-import java.util.Scanner;
 
 public class Hangman {
     /** The name of the user */
